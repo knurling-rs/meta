@@ -1,7 +1,5 @@
-<center>
-<h1>Knurling</h1>
-<b>Get a grip on bare-metal Rust</b>
-</center>
+<h1 align="center">Knurling</h1>
+<div align="center"><strong>Get a grip on bare-metal Rust</strong></div>
 
 ----
 
@@ -26,7 +24,7 @@ TODO: sponsorship link
 
 ----
 
-<center>
-<div>A Project By</div>
-<a href="https://ferrous-systems.com/"><img src="img/ferrous-logo.png" width="250" alt="Ferrous Systems"></a>
-</center>
+<div align="center">A Project By</div>
+<div align="center">
+    <a href="https://ferrous-systems.com/"><img src="img/ferrous-logo.png" width="250" alt="Ferrous Systems"></a>
+</div>
