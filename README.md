@@ -1,28 +1,32 @@
 <h1 align="center">Knurling</h1>
-<div align="center"><strong>Get a grip on bare-metal Rust</strong></div>
+<div align="center">
+  <strong>Get a grip on bare-metal Rust</strong>
 
-----
+  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+</div>
 
-Knurling is an effort to build better tooling for developing and debugging
-Rust software for embedded systems.
+Knurling is an attempt at improving the tools and material used to build, debug, and learn embedded systems.
 
-We believe that developing for embedded systems should be no more difficult than
-developing for hosted platforms. It should be possible to use the same workflows
-and equally powerful tooling to develop applications and libraries for tiny
-embedded systems as well as server-class hardware.
+We believe that developing for embedded systems should be no more difficult than developing for hosted platforms. It should be possible to use the same workflows and equally powerful tooling to develop applications and libraries for tiny embedded systems as well as powerful server-class hardware.
 
 To that end, we want to enable:
 
+* Development and maintenance of high quality reference and teaching material
 * Space-efficient and real-time capable logging
 * Integration into your standard `cargo run` and `cargo test` workflows
 * Execution tracing
 * Simple data logging and visualization straight into your IDE or Browser
+* ...and much more
 
 TODO: binfmt link/project list
 
-TODO: sponsorship link
+If you would like to support this project, [consider supporting us via GitHub Sponsors][sponsor]. Thanks <3
 
-----
+[sponsor]: https://github.com/sponsors/knurling-rs
+
+<div align="center">
+  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+</div>
 
 <div align="center">A Project By</div>
 <div align="center">
