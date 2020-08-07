@@ -18,11 +18,30 @@ To that end, we want to enable:
 * Simple data logging and visualization straight into your IDE or Browser
 * ...and much more
 
-TODO: binfmt link/project list
+For more information, check out our [announcement blog post].
+
+[announcement blog post]: https://ferrous-systems.com/blog/knurling-rs/
 
 If you would like to support this project, [consider supporting us via GitHub Sponsors][sponsor]. Thanks <3
 
 [sponsor]: https://github.com/sponsors/knurling-rs
+
+## Current Projects
+
+These are the projects currently maintained and developed by the Knurling team. Thank you to our [sponsors][sponsor] for making these possible!
+
+### Early Sponsor Preview
+
+The following projects are available for preview for [sponsors][sponsor] of Knurling. They will be made public at a later date.
+
+* [binfmt](https://github.com/knurling-rs/binfmt) - A highly efficient logging framework that targets resource-constrained devices, like microcontrollers.
+
+### Coming Soon
+
+We're working on the following items, and will make them available for Early Sponsor Preview soon!
+
+* **Knurling Books** - Written guides that teach general concepts of embedded systems and Rust
+* **Knurling Sessions** - Guided, hands-on tutorials for building projects like a CO2 Sensor, Data Loggers, and even robots!
 
 <div align="center">
   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
