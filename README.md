@@ -30,11 +30,17 @@ If you would like to support this project, [consider supporting us via GitHub Sp
 
 These are the projects currently maintained and developed by the Knurling team. Thank you to our [sponsors][sponsor] for making these possible!
 
+### Public Projects
+
+The following projects are available for everyone to use!
+
+* [probe-run](https://github.com/knurling-rs/probe-run) - A cargo runner for developing embedded applications like native applications
+
 ### Early Sponsor Preview
 
 The following projects are available for preview for [sponsors][sponsor] of Knurling. They will be made public at a later date.
 
-* [binfmt](https://github.com/knurling-rs/binfmt) - A highly efficient logging framework that targets resource-constrained devices, like microcontrollers.
+* [defmt](https://github.com/knurling-rs/defmt) - A highly efficient logging framework that targets resource-constrained devices, like microcontrollers.
 
 ### Coming Soon
 
