@@ -35,12 +35,12 @@ These are the projects currently maintained and developed by the Knurling team. 
 The following projects are available for everyone to use!
 
 * [probe-run](https://github.com/knurling-rs/probe-run) - A cargo runner for developing embedded applications like native applications
-
-### Early Sponsor Preview
-
-The following projects are available for preview for [sponsors][sponsor] of Knurling. They will be made public at a later date.
-
 * [defmt](https://github.com/knurling-rs/defmt) - A highly efficient logging framework that targets resource-constrained devices, like microcontrollers.
+* [app-template](https://github.com/knurling-rs/app-template) - A Cargo project template to get started with `probe-run` and `defmt`.
+
+<!-- ### Early Sponsor Preview -->
+
+<!-- The following projects are available for preview for [sponsors][sponsor] of Knurling. They will be made public at a later date. -->
 
 ### Coming Soon
 
