@@ -37,10 +37,13 @@ The following projects are available for everyone to use!
 * [probe-run](https://github.com/knurling-rs/probe-run) - A cargo runner for developing embedded applications like native applications
 * [defmt](https://github.com/knurling-rs/defmt) - A highly efficient logging framework that targets resource-constrained devices, like microcontrollers.
 * [app-template](https://github.com/knurling-rs/app-template) - A Cargo project template to get started with `probe-run` and `defmt`.
+* [flip-link](https://github.com/knurling-rs/flip-link) - Adds zero-cost stack overflow protection to your embedded programs
 
-<!-- ### Early Sponsor Preview -->
+### Early Sponsor Preview
 
-<!-- The following projects are available for preview for [sponsors][sponsor] of Knurling. They will be made public at a later date. -->
+The following projects are available for preview for [sponsors][sponsor] of Knurling. They will be made public at a later date.
+
+* [defmt-test](https://github.com/knurling-rs/defmt-test) - A test harness for embedded devices
 
 ### Coming Soon
 
