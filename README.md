@@ -38,19 +38,19 @@ The following projects are available for everyone to use!
 * [defmt](https://github.com/knurling-rs/defmt) - A highly efficient logging framework that targets resource-constrained devices, like microcontrollers.
 * [app-template](https://github.com/knurling-rs/app-template) - A Cargo project template to get started with `probe-run` and `defmt`.
 * [flip-link](https://github.com/knurling-rs/flip-link) - Adds zero-cost stack overflow protection to your embedded programs
+* [defmt-test](https://github.com/knurling-rs/defmt-test) - A test harness for embedded devices
 
 ### Early Sponsor Preview
 
 The following projects are available for preview for [sponsors][sponsor] of Knurling. They will be made public at a later date.
 
-* [defmt-test](https://github.com/knurling-rs/defmt-test) - A test harness for embedded devices
+* [Knurling Sessions](https://ferrous-systems.com/blog/knurling-sessions-introduction/) - Guided, hands-on tutorials for building projects like a CO2 Sensor, Data Loggers, and even robots!
 
 ### Coming Soon
 
 We're working on the following items, and will make them available for Early Sponsor Preview soon!
 
 * **Knurling Books** - Written guides that teach general concepts of embedded systems and Rust
-* **Knurling Sessions** - Guided, hands-on tutorials for building projects like a CO2 Sensor, Data Loggers, and even robots!
 
 <div align="center">
   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
